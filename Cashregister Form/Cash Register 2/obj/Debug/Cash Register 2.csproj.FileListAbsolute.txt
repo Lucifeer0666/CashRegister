@@ -1,0 +1,15 @@
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\bin\Debug\Cash Register 2.exe.config
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\bin\Debug\Cash Register 2.exe
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\bin\Debug\Cash Register 2.pdb
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash Register 2.csproj.AssemblyReference.cache
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash Register 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash_Register_2.Form1.resources
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash_Register_2.Properties.Resources.resources
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash Register 2.csproj.GenerateResource.cache
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash Register 2.csproj.CoreCompileInputs.cache
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash Register 2.exe
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash Register 2.pdb
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash_Register_2.AddCashierForm.resources
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash_Register_2.LobbyForm.resources
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash_Register_2.AddItemsForm.resources
+C:\Users\iron-\source\repos\Cash Register 2\Cash Register 2\obj\Debug\Cash_Register_2.PurchaseForm.resources

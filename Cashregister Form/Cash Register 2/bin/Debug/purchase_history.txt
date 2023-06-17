@@ -1,0 +1,3 @@
+
+Käse, Käse, 12.00 €  => Total: 53.00 €
+Milch, Getränk, 8.00 €  - Total: 43.00 €

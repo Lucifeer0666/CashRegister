@@ -1,0 +1,4 @@
+Potato,Gemüse,5
+Tomato,Gemüse,6
+Milch,Getränk,8
+Käse,Käse,12
